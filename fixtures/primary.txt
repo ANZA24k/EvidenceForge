@@ -1,0 +1,6 @@
+SYNTHETIC PILOT — not a real certification or production audit.
+Issuer: ANZA24k/EvidenceForge. Primary record for the fictional Atlas suite v1.
+Protocol: all 12 cases, Python 3.12, CPU only, no excluded cases.
+Run: Atlas v1.0, dataset atlas-fixture-v1, runtime Python 3.12, CPU only.
+Results: cases 01 through 12 each PASS; total 12/12 passed, zero failed, zero excluded.
+Completeness: the complete synthetic case set is represented above. No external certification is asserted.

@@ -1,0 +1,5 @@
+SYNTHETIC PILOT — corrected primary record from ANZA24k/EvidenceForge.
+The earlier Atlas v1 record reporting 12/12 passed is incorrect.
+Full run: cases 01 through 09 PASS; cases 10 through 12 FAIL.
+Actual result: 9/12 passed, 3 failed, no exclusions, Python 3.12, CPU only.
+This correction invalidates the claim that every case passed.
